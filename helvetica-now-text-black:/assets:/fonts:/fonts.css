@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'HelveticaNowBlack';
+  font-style: normal;
+  font-weight: 900;
+  src: url('https://newtonscreative.github.io/helvetica-now-text-black/assets/fonts/helvetica-now-text-black.ttf') format('truetype');
+  font-display: swap;
+}
