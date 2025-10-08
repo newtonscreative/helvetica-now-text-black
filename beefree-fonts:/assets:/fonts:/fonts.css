@@ -1,13 +1,7 @@
-/* Helvetica Now Text Black for BeeFree */
 @font-face {
-  font-family: 'Helvetica Now Text Black';
-  src: url('./helvetica-now-text-black.woff') format('woff');
-  font-weight: 900;
+  font-family: 'HelveticaNowBlack';
   font-style: normal;
+  font-weight: 900;
+  src: url('https://newtonscreative.github.io/helvetica-now-text-black/assets/fonts/helvetica-now-text-black.woff') format('woff');
   font-display: swap;
-}
-
-/* Example usage */
-body {
-  font-family: 'Helvetica Now Text Black', Arial, Helvetica, sans-serif;
 }
